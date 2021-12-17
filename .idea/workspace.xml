@@ -54,7 +54,6 @@
   </component>
   <component name="JupyterTrust" id="8f19fdfa-fa8f-408b-83e2-f4ce99cbb7af">
     <option name="files">
-      <option value="2020Jan_image_quality/image_quality_service_pro/jay.ipynb" />
       <option value="search_about/tiger.ipynb" />
     </option>
   </component>
@@ -69,25 +68,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/permanent_notification_bar/stat.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+      <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search" />
+      <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server" />
+      <recent name="$PROJECT_DIR$/2020Jan_image_quality/standalone" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2020May_baidu_thumbnail" />
       <recent name="$PROJECT_DIR$/2020Aug_posenet/Tensorflow_PersonLab/cocodata/annotations" />
       <recent name="$PROJECT_DIR$/2020Aug_posenet/Tensorflow_PersonLab/cocodata" />
       <recent name="$PROJECT_DIR$/2020Aug_posenet" />
       <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/oneday_test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2020May_baidu_thumbnail" />
-      <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search" />
-      <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server" />
-      <recent name="$PROJECT_DIR$/2020Jan_image_quality/standalone" />
-      <recent name="$PROJECT_DIR$/2020Jan_image_quality/standalone/model" />
     </key>
   </component>
   <component name="RunManager" selected="Python.client_test_v2">
@@ -414,7 +413,7 @@
       <workItem from="1637737415061" duration="1116000" />
       <workItem from="1638154435698" duration="24000" />
       <workItem from="1638157130379" duration="2000" />
-      <workItem from="1639639285945" duration="4796000" />
+      <workItem from="1639639285945" duration="5553000" />
     </task>
     <servers />
   </component>

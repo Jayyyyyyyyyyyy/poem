@@ -1,0 +1,26 @@
+annoy @ file:///home/conda/feedstock_root/build_artifacts/python-annoy_1610271473626/work
+APScheduler==3.7.0
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+Flask==1.1.2
+Flask-APScheduler==1.12.1
+Flask-JSON==0.3.4
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.3
+joblib==1.0.1
+MarkupSafe==1.1.1
+numpy==1.19.5
+python-dateutil==2.8.1
+pytz==2021.1
+requests==2.25.1
+scikit-learn==0.24.1
+scipy==1.5.4
+six==1.15.0
+sklearn==0.0
+termcolor==1.1.0
+threadpoolctl==2.1.0
+tzlocal==2.1
+urllib3==1.26.4
+Werkzeug==1.0.1
