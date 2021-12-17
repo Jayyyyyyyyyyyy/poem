@@ -1,0 +1,12 @@
+dist: xenial
+language: python
+python:
+  - 3.8
+  - 3.7
+  - 3.6
+install:
+  - pip install -e .[dev]
+script:
+  - bash scripts/run-tests.sh
+after_success:
+  - bash scripts/deploy.sh

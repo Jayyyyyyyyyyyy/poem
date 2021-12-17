@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8401af08-14d4-459a-a946-58fa5e8f6d3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/contrib/tf_serving/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/data/TID2013/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/mkdocs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/src/evaluater/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/src/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/src/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/src/trainer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/src/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/contrib/tf_serving/tfs_sample_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment/contrib/tf_serving/tfs_sample_client.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment" />
+  </component>
+  <component name="JupyterTrust" id="8f19fdfa-fa8f-408b-83e2-f4ce99cbb7af">
+    <option name="files">
+      <option value="2020Jan_image_quality/image_quality_service_pro/jay.ipynb" />
+      <option value="search_about/tiger.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1d7tq1duZrSKK2JJ5DyKsLtVPuI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/permanent_notification_bar/stat.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+      <recent name="$PROJECT_DIR$/2020Aug_posenet/Tensorflow_PersonLab/cocodata/annotations" />
+      <recent name="$PROJECT_DIR$/2020Aug_posenet/Tensorflow_PersonLab/cocodata" />
+      <recent name="$PROJECT_DIR$/2020Aug_posenet" />
+      <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/oneday_test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+      <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search" />
+      <recent name="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server" />
+      <recent name="$PROJECT_DIR$/2020Jan_image_quality/standalone" />
+      <recent name="$PROJECT_DIR$/2020Jan_image_quality/standalone/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.client_test_v2">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020May_baidu_thumbnail/clear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_test_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service_pro/src/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service_pro/src/client/client_test_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_frame" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/extract_frame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/extract_frame/extract_frame.py" />
+      <option name="PARAMETERS" value="$USER_HOME$/Documents/vid_for_video.csv" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redis_import" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020May_baidu_thumbnail/redis_import.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020May_baidu_thumbnail/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020May_baidu_thumbnail/upload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/poem/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://localhost:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="Python.DjangoServer" factoryName="Django server">
+      <module name="poem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/poem/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://localhost:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.views" />
+      <item itemvalue="Python.extract_frame" />
+      <item itemvalue="Python.clear" />
+      <item itemvalue="Python.client_test_v2" />
+      <item itemvalue="Python.redis_import" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.upload" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client_test_v2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.clear" />
+        <item itemvalue="Python.upload" />
+        <item itemvalue="Python.redis_import" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8401af08-14d4-459a-a946-58fa5e8f6d3b" name="Default Changelist" comment="" />
+      <created>1591788147126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591788147126</updated>
+      <workItem from="1591788156376" duration="1054000" />
+      <workItem from="1591844844385" duration="4909000" />
+      <workItem from="1591861367196" duration="10589000" />
+      <workItem from="1591900424121" duration="2393000" />
+      <workItem from="1591902974435" duration="189000" />
+      <workItem from="1591903239610" duration="134000" />
+      <workItem from="1591903519213" duration="163000" />
+      <workItem from="1591903700015" duration="15000" />
+      <workItem from="1591903762207" duration="16761000" />
+      <workItem from="1591974288289" duration="6254000" />
+      <workItem from="1592021364368" duration="3301000" />
+      <workItem from="1592119090069" duration="24648000" />
+      <workItem from="1592360813092" duration="16501000" />
+      <workItem from="1592391155660" duration="348000" />
+      <workItem from="1592391675806" duration="6412000" />
+      <workItem from="1592454496393" duration="78975000" />
+      <workItem from="1593568602952" duration="8000000" />
+      <workItem from="1593687508710" duration="1883000" />
+      <workItem from="1593745550544" duration="4228000" />
+      <workItem from="1594004134628" duration="127000" />
+      <workItem from="1594004287064" duration="61000" />
+      <workItem from="1594004370847" duration="397000" />
+      <workItem from="1594004804010" duration="153778000" />
+      <workItem from="1595486063208" duration="52432000" />
+      <workItem from="1596089228102" duration="39901000" />
+      <workItem from="1596594870261" duration="1037000" />
+      <workItem from="1596599347844" duration="55076000" />
+      <workItem from="1596772300002" duration="5476000" />
+      <workItem from="1597058274073" duration="156000" />
+      <workItem from="1597058455597" duration="38117000" />
+      <workItem from="1597802725924" duration="1913000" />
+      <workItem from="1597832883900" duration="2000" />
+      <workItem from="1597833803629" duration="498000" />
+      <workItem from="1597834340926" duration="176000" />
+      <workItem from="1597907981348" duration="1694000" />
+      <workItem from="1597911477185" duration="597000" />
+      <workItem from="1597912847255" duration="24595000" />
+      <workItem from="1598234932519" duration="359000" />
+      <workItem from="1598235311901" duration="30550000" />
+      <workItem from="1598432355764" duration="750000" />
+      <workItem from="1599274653905" duration="628000" />
+      <workItem from="1599445987190" duration="25633000" />
+      <workItem from="1599880834349" duration="1595000" />
+      <workItem from="1600422434057" duration="2098000" />
+      <workItem from="1600424915618" duration="1100000" />
+      <workItem from="1600670628382" duration="658000" />
+      <workItem from="1600847994796" duration="10786000" />
+      <workItem from="1601373511386" duration="12444000" />
+      <workItem from="1603102066243" duration="3490000" />
+      <workItem from="1603162089561" duration="27378000" />
+      <workItem from="1603780069271" duration="31612000" />
+      <workItem from="1604907971836" duration="48717000" />
+      <workItem from="1605593023763" duration="11790000" />
+      <workItem from="1605870998240" duration="2335000" />
+      <workItem from="1606101636652" duration="31301000" />
+      <workItem from="1606702794670" duration="15147000" />
+      <workItem from="1607068148351" duration="9812000" />
+      <workItem from="1607338988365" duration="65986000" />
+      <workItem from="1610363021593" duration="47771000" />
+      <workItem from="1611558452745" duration="4878000" />
+      <workItem from="1611574445054" duration="67765000" />
+      <workItem from="1612492263701" duration="28931000" />
+      <workItem from="1613807324922" duration="9004000" />
+      <workItem from="1613820672815" duration="213000" />
+      <workItem from="1613820912105" duration="80361000" />
+      <workItem from="1614651340588" duration="319000" />
+      <workItem from="1614652151566" duration="118608000" />
+      <workItem from="1616815981512" duration="15988000" />
+      <workItem from="1616996982854" duration="4909000" />
+      <workItem from="1617346998154" duration="8266000" />
+      <workItem from="1617784490747" duration="14097000" />
+      <workItem from="1618466830915" duration="1934000" />
+      <workItem from="1620294950736" duration="4183000" />
+      <workItem from="1620789342470" duration="3459000" />
+      <workItem from="1621823585503" duration="610000" />
+      <workItem from="1622083652150" duration="10946000" />
+      <workItem from="1623031612099" duration="3200000" />
+      <workItem from="1623755599381" duration="30437000" />
+      <workItem from="1624240750508" duration="5231000" />
+      <workItem from="1626253769109" duration="11113000" />
+      <workItem from="1626683117335" duration="6092000" />
+      <workItem from="1626939135120" duration="5000" />
+      <workItem from="1630549673311" duration="2509000" />
+      <workItem from="1630893750975" duration="52000" />
+      <workItem from="1630914455046" duration="461000" />
+      <workItem from="1630914970490" duration="75000" />
+      <workItem from="1630980033987" duration="49000" />
+      <workItem from="1632293077258" duration="765000" />
+      <workItem from="1637138790933" duration="34000" />
+      <workItem from="1637737415061" duration="1116000" />
+      <workItem from="1638154435698" duration="24000" />
+      <workItem from="1638157130379" duration="2000" />
+      <workItem from="1639639285945" duration="4796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/2020Jan_image_quality/image_quality_service/src/apps/image_quality/image_quality_assessment" />
+      <path value="$PROJECT_DIR$/poem" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-225" y="-842" width="1416" height="724" key="find.popup" timestamp="1639639466886">
+      <screen x="-261" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="-225" y="-842" width="1416" height="724" key="find.popup/0.25.1440.875/-261.-1055.1920.1055@-261.-1055.1920.1055" timestamp="1639639466886" />
+    <state x="27" y="202" width="1062" height="600" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1637737430933" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/小工具/timestamp2date.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/polls/contentreacll.py</url>
+          <line>217</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/poem$get_createtime.coverage" NAME="get_createtime Coverage Results" MODIFIED="1612256961278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Jun_duplicated_video_search/回溯历史数据" />
+    <SUITE FILE_PATH="coverage/poem$test.coverage" NAME="test Coverage Results" MODIFIED="1595328148523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/poem$extract_frame.coverage" NAME="extract_frame Coverage Results" MODIFIED="1595300489382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/extract_frame" />
+    <SUITE FILE_PATH="coverage/poem$video_reprint.coverage" NAME="video_reprint Coverage Results" MODIFIED="1595408395342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/polls" />
+    <SUITE FILE_PATH="coverage/poem$clear.coverage" NAME="clear Coverage Results" MODIFIED="1617699433952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020May_baidu_thumbnail" />
+    <SUITE FILE_PATH="coverage/poem$data_generator.coverage" NAME="data_generator Coverage Results" MODIFIED="1596645026895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Aug_posenet/Tensorflow_PersonLab" />
+    <SUITE FILE_PATH="coverage/poem$process.coverage" NAME="process Coverage Results" MODIFIED="1591856264971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Apr_dance_machine/get_imgs_for_PM" />
+    <SUITE FILE_PATH="coverage/poem$extract_img.coverage" NAME="extract_img Coverage Results" MODIFIED="1592371367443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Apr_dance_machine/video_frame_extract" />
+    <SUITE FILE_PATH="coverage/poem$views.coverage" NAME="views Coverage Results" MODIFIED="1595388077834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/polls" />
+    <SUITE FILE_PATH="coverage/poem$contentreacll.coverage" NAME="contentreacll Coverage Results" MODIFIED="1614681606687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020Jun_duplicated_video_search/dup_video_server/polls" />
+  </component>
+</project>

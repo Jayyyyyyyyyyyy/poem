@@ -1,0 +1,23 @@
+version: '3.6'
+
+services:
+  notebook:
+    image: ocampor/notebook
+    build:
+      context: docker/notebook
+      dockerfile: docker/notebook/Dockerfile
+    environment:
+      - JUPYTER_PASS=${JUPYTER_PASS}
+    ports:
+      - 8000:8000
+    volumes:
+      - ./notebooks:/home/ocampor/notebooks
+      - /Users/ricardoocampo/Data:/data
+  image-quality:
+    image: ocampor/image-quality:${VERSION}
+    build:
+      context: ""
+      dockerfile: docker/test/Dockerfile
+      args:
+        PYTHON_DOCKER_VERSION: ${PYTHON_DOCKER_VERSION}
+      target: base
